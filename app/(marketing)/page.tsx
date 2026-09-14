@@ -5,7 +5,7 @@ export default function HomePage() {
     <section className="relative flex min-h-[calc(100vh-4rem)] flex-col items-center justify-center overflow-hidden px-4 py-24 sm:px-6">
       <div
         aria-hidden
-        className="animate-gradient pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-teal-100 via-slate-50 to-slate-100 dark:from-teal-950/40 dark:via-slate-950 dark:to-slate-900"
+        className="animate-gradient pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,var(--tw-gradient-stops))] from-teal-100 via-slate-50 to-slate-100 dark:from-teal-950/40 dark:via-slate-950 dark:to-slate-900"
       />
       <div
         aria-hidden
