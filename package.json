@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Production-ready Next.js SaaS starter with Auth.js, RBAC, Prisma, Stripe, Docker, and CI/CD",
+  "packageManager": "pnpm@12.4.1",
   "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
